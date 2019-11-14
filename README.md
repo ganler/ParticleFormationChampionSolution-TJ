@@ -23,9 +23,9 @@ We are invited to German🇩🇪 to take part in [the first Chemalytix Conferenc
 
 ## Main Contributions
 
-- **Algorithm Design and Coding **: Xin Wen & Jiawei Liu
-- **Presentation **: Renfeng Peng
-- **Video **: Haoran Zhang
+- **Algorithm Design and Coding :** Xin Wen & Jiawei Liu
+- **Presentation :** Renfeng Peng
+- **Video :** Haoran Zhang
 - **PPT :** Jiawei Liu
 
 > For more informations, please see our codes in `./code/` and our PPT in `./PPT#6.pptx`.

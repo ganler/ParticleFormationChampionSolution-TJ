@@ -28,3 +28,4 @@ We are invited to German🇩🇪 to take part in [the first Chemalytix Conferenc
 ## News
 
 -  [We won the **champion** position!](https://www.linkedin.com/feed/update/urn:li:activity:6599863028911575040/) 
+- [News report from Covestro(in Chinese) ](https://mp.weixin.qq.com/s/hGzIsZeyAXH9fKT2SA3Zcg)

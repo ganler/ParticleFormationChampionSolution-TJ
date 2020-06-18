@@ -1,6 +1,6 @@
 # ParticleFormationChampionSolution-TJ
 
-We are team#6 from Tongji University who won the [**champion** position](https://www.linkedin.com/feed/update/urn:li:activity:6599863028911575040/) in *the International Data Science Hackathon(Chinese region)* hosted by [Covestro](https://www.covestro.com/en).
+We are team#6 from Tongji University who are the [**winners**](https://www.linkedin.com/feed/update/urn:li:activity:6599863028911575040/) in *the International Data Science Hackathon(Chinese region)* hosted by [Covestro](https://www.covestro.com/en).
 
 We are invited to German🇩🇪 to take part in [the first Chemalytix Conference for Data Science](https://covestro.guest.management/en/events/covestro/120/) to present our work this December(2019). 
 
